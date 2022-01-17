@@ -24,7 +24,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BurhanBudak/web-scrapper-tradera.git"
+    "url": "https://github.com/BurhanBudak/web-scrapper-tradera.git"
   },
   "bugs": {
     "url": "https://github.com/BurhanBudak/web-scrapper-tradera/issues"
