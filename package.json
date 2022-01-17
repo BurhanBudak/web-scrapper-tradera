@@ -1,0 +1,33 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "e-commerance web scrapper",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "web-scraper"
+  ],
+  "author": "Burhan Budak",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.5",
+    "nodemon": "^2.0.15",
+    "puppeteer": "^13.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurhanBudak/web-scrapper-tradera.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BurhanBudak/web-scrapper-tradera/issues"
+  },
+  "homepage": "https://github.com/BurhanBudak/web-scrapper-tradera#readme"
+}
